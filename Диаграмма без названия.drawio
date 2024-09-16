@@ -11,13 +11,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BLAt_D8JNX50Xe-EIdhG-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DTIME&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="10" width="180" height="120" as="geometry" />
+          <mxGeometry x="20" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BLAt_D8JNX50Xe-EIdhG-2" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="80" height="60" as="geometry" />
+          <mxGeometry x="374" y="20" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BLAt_D8JNX50Xe-EIdhG-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BLAt_D8JNX50Xe-EIdhG-4" value="Задачи" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BLAt_D8JNX50Xe-EIdhG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BLAt_D8JNX50Xe-EIdhG-10" target="BLAt_D8JNX50Xe-EIdhG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BLAt_D8JNX50Xe-EIdhG-10" value="Что нужно" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="140" height="180" as="geometry">
+            <mxRectangle x="70" y="260" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BLAt_D8JNX50Xe-EIdhG-11" value="Смета на открытие&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BLAt_D8JNX50Xe-EIdhG-10">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLAt_D8JNX50Xe-EIdhG-12" value="Сайт для продажи" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BLAt_D8JNX50Xe-EIdhG-10">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLAt_D8JNX50Xe-EIdhG-15" value="Выбор юр лица" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BLAt_D8JNX50Xe-EIdhG-10">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLAt_D8JNX50Xe-EIdhG-13" value="Сайт для партнера" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BLAt_D8JNX50Xe-EIdhG-10">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BLAt_D8JNX50Xe-EIdhG-16" value="Выбор банка" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BLAt_D8JNX50Xe-EIdhG-10">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
